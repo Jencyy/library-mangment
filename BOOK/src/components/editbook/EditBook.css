@@ -1,0 +1,12 @@
+/* EditBook.css */
+  .submit-button {
+    background-color: #ffc107; 
+    border-color: #ffc107;
+  }
+  
+  .submit-button:hover {
+    background-color: #ffca2c; 
+    border-color: #ffca2c; 
+    color: #343a40;
+  }
+   

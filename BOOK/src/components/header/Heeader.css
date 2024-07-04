@@ -1,0 +1,12 @@
+.navbar-custom {
+  background-color: #343a40; /* Dark charcoal */
+}
+
+.nav-link-custom {
+  color: #ffc107 !important; /* Bright yellow */
+  margin-right: 10px;
+}
+
+.nav-link-custom:hover {
+  color: #ffffff !important; /* White on hover */
+}
